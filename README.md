@@ -4,4 +4,4 @@
 
 It is an Unofficial Version.
 
-[![Release downloads](https://img.shields.io/github/downloads/mdalmahmud023/CrDroid_daisy/total.svg)](https://github.com/mdalmahmud023/rising_OS_Daisy/releases/)
+[![Release downloads](https://img.shields.io/github/downloads/mdalmahmud023/rising_OS_Daisy/total.svg)](https://github.com/mdalmahmud023/rising_OS_Daisy/releases/)
